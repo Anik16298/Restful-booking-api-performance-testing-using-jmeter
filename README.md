@@ -74,7 +74,7 @@ The sample test plan includes the following components:
 6. 2900 Concurrent Request with 01 Loop Count; Avg TPS for Total Samples is ~ 157 And Total Concurrent API requested: 17400.
        ![2900](https://github.com/Anik16298/Restful-booking-api-performance-testing-using-jmeter/blob/52b72a36369cb57b0641ed04cac8acf230805750/Screenshot/2900.png)
 ### While executed 2900 concurrent request, found  3160 request got connection timeout and error rate is 18.16%. 
-### Summary: Server can handle almost concurrent 16900 API call with  zero (0) error rate.
+### Summary: Server can handle almost concurrent 16800 API call with  zero (0) error rate.
 
 
 
